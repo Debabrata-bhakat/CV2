@@ -1,0 +1,118 @@
+div{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 50px auto 0px auto;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+body{
+    margin: 0px;
+}
+p{
+    line-height: 2;
+}
+.top-container{
+    /* height: 200px; */
+    /* width: 200px; */
+    /* border: 10px solid black; */
+    /* padding: 20px; */
+    
+    background-color: #E4F9F6;
+    position: relative;
+    padding: 100px;
+}
+.middle-container{
+    padding-bottom: 25px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 3rem;
+    line-height: 3;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+.bottom-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.top-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.code-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chilli-image{
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+}
+/* .code-skill-description{
+    clear: left;
+}
+.chilli-skill-description{
+    clear: right;
+} */
+hr{
+    width: 10%;
+    border: none;
+    border-top: 15px dotted #EAF6F6;
+}
+.copyright{
+    margin: 0px;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+.btn{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+.footer-link{
+    margin: 2rem;
+    color: #11999E;
+}
+.profile{
+    margin-top: 40px;
+}
+.intro
+{
+    width: 30%;
+    margin: auto;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
